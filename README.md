@@ -2,7 +2,7 @@
 
 Este repositorio contiene archivos relacionados con un proyecto API, que incluyen código, funciones y recursos para la creación y exposición de la interfaz de la API.
 
-![IMAGEN DE LA INTERFAZ](ejemplo.png)
+![IMAGEN DE LA INTERFAZ](ejemplo.PNG)
 
 ## Archivos en el Repositorio
 
